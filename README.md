@@ -1,4 +1,5 @@
 # Philly-Crime-and-Sports
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br></br>
 An exploratory data analysis project examining historic Philadelphia crime data in relation to the Philadelphia Eagles’ game schedules and results. This project explores potential patterns, correlations, and insights through data cleaning, visualization, and statistical analysis.
 
 ## Project Objective
