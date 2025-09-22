@@ -35,9 +35,9 @@ By combining sports data and urban crime data, this project explores possible co
 
 ## Example Visualization
 1. Scatter plot of Philadelphia Crimes per Day colored by whether or not Eagles played.
-![Scatter Plot](Images/Philadelphia Crimes per Day vs Eagles Games.png)
+![Scatter Plot](Images/Philadelphia%20Crimes%20per%20Day%20vs%20Eagles%20Games.png)
 3. Hexbin map of crime incidents across Philadelphia (by latitude/longitude).
-![Hexbin Plot](Images/Philadelphia Crime Density when Eagles play in Philly.png)
+![Hexbin Plot](Images/Philadelphia%20Crime%20Density%20when%20Eagles%20play%20in%20Philly.png)
 
 ## Results (Summary)
 I found slight correlations between crime and if the Eagles played, but no substantial correlation; specifically in regards to Alcohol related crimes, there was almost no correlation at all. This was surprising because I expected there to be more correlation between Alcohol related crimes and football. At the same time, there was some correlation for Fraud. I believe this is most likely because the Eagles typically play on weekends, and there are less fraud dispatches in the weekends. Other crime types had basically no correation. This highlights the complexity of urban behavior. Ultimately the results emphasized that correlation is not causation, but it can provide insight into social dynamics around major events.
