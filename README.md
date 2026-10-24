@@ -11,7 +11,7 @@ By combining sports data and urban crime data, this project explores possible co
 
 ## Data Sources
 - **Philadelphia Crime Data**: [Publicly available](https://data.phila.gov/visualizations/crime-incidents) incident-level reports from the City of Philadelphia.
-- **Philadelphia Eagles Schedule & Results**: [NFL-provided historical](https://fixturedownload.com/results/nfl-2025/philadelphia-eagles) schedule and outcomes (2016-present).
+- **Philadelphia Eagles Schedule & Results**: [Historical game schedules and results](https://fixturedownload.com/results/nfl-2025/philadelphia-eagles) (2016–present), sourced from the third-party website FixtureDownload.com.
 
 ## Methods & Tools
 - **Languages**: Python (pandas, NumPy, matplotlib, seaborn).
